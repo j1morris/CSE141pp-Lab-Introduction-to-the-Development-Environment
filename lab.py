@@ -8,7 +8,7 @@ input_files = ['submission/code.c']
 run_cmd = ['make', '-C', 'submission']
 clean_cmd = ['make', 'clean']
 env = ['CC','CXX','CFLAGS','CXXFLAGS']
-repo = "https://d21e33605495c4eb7ef7d4fc27d78f422324e710@github.com/NVSL/CSE141pp-lab-dot-product"
+repo = "https://github.com/NVSL/CSE141pp-Introduction-to-the-Development-Environment/edit/master/lab.py"
 reference_tag = "314bfbd09ab3a28b446742234851eeef2c29dcba"
 time_limit = 40
 
