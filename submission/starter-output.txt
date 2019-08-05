@@ -1,0 +1,20 @@
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+Loading Native engine.
+correct value is 1027.381988
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 2058.863664
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 4079.073710
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 8182.224958
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 16378.869142
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 32740.373872
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 65468.930153
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 131060.903304
+Couldn't open '/dev/cache_control'.  Not flushing caches.
+correct value is 262048.091889
+Couldn't open '/dev/cache_control'.  Not flushing caches.
