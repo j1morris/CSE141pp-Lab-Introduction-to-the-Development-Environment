@@ -8,6 +8,7 @@ double go(double * A, double *B, int len) {
   for(int i = 0; i < len; i++) {
     sum += A[i] * B[i];
   }
+  printf("Justin Morris\n");
   return sum;
 }
 
